@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sarosh 👋
 
-<!--
-**saroshdoddaka/saroshdoddaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student interested in **machine learning, computer vision, and agentic systems**.
 
-Here are some ideas to get you started:
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **YOLOv8 Grocery Label Detection @ Northwestern**
+  Training and evaluating object detection models for grocery date-label detection using **YOLOv8, PyTorch, CUDA, and OpenCV**, with evaluation across **mAP, precision, recall, and IoU**.
+
+* **ConductFlow**
+  Building an **agent-based workflow automation system** for executing repeatable organizational processes.
+
+* **ML + Economics Research**
+  Applied machine learning research involving **computer vision, consumer data, and economic decision-making**.
+
+Interested in:
+
+* Computer Vision
+* Object Detection
+* Agentic AI
+* Applied ML
+* Model Evaluation
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,git,github" />
+</p>
+
+Also working with **YOLOv8, Ultralytics, CUDA, Jupyter, NumPy, Pandas, and Hugging Face**.
+
+### Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](YOUR_GITHUB_URL)
