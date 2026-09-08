@@ -10,4 +10,4 @@ Currently:
 
 **Tools:** Python, PyTorch, YOLOv8, OpenCV, CUDA, Google Cloud, scikit-learn, Git
 
-[LinkedIn](https://www.linkedin.com/in/sarosh-doddaka/)
+[LinkedIn](www.linkedin.com/in/saroshdoddaka)
