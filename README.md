@@ -1,34 +1,13 @@
-# Hi, I'm Sarosh 👋
+# Sarosh Doddaka
 
-High school student interested in **machine learning, computer vision, and agentic systems**.
+Interested in **machine learning, computer vision, and agentic systems**.
 
-Currently working on:
+Currently:
 
-* **YOLOv8 Grocery Label Detection @ Northwestern**
-  Training and evaluating object detection models for grocery date-label detection using **YOLOv8, PyTorch, CUDA, and OpenCV**, with evaluation across **mAP, precision, recall, and IoU**.
+* **YOLOv8/VLM research @ Northwestern** — developing date-label detection models on Google Cloud and building a policy dataset around food waste, USDA guidance, and legislation for publication
+* **ConductFlow** — building agent-based workflow automation systems
+* Exploring applied ML, computer vision, and model evaluation
 
-* **ConductFlow**
-  Building an **agent-based workflow automation system** for executing repeatable organizational processes.
+**Tools:** Python, PyTorch, YOLOv8, OpenCV, CUDA, Google Cloud, scikit-learn, Git
 
-* **ML + Economics Research**
-  Applied machine learning research involving **computer vision, consumer data, and economic decision-making**.
-
-Interested in:
-
-* Computer Vision
-* Object Detection
-* Agentic AI
-* Applied ML
-* Model Evaluation
-
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,git,github" />
-</p>
-
-Also working with **YOLOv8, Ultralytics, CUDA, Jupyter, NumPy, Pandas, and Hugging Face**.
-
-### Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](YOUR_GITHUB_URL)
+[LinkedIn](https://www.linkedin.com/in/sarosh-doddaka/)
